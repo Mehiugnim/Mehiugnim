@@ -28,7 +28,7 @@ Je conçois des outils numériques en santé éducation et civic tech.
 |--------|-------------|-------|
 | **Benevol'Act Afrique** | Plateforme civic tech connectant bénévoles et associations en Afrique francophone | React · TypeScript · Vite · Supabase · Shadcn/ui |
 | **AfriiFood** | Coach nutritionnel IA (NutriBot) adapté à la cuisine ouest-africaine | Next.js · RAG · Claude API · pgvector |
-| **Kongrex** | SaaS de gestion de congrès médicaux (inscriptions, badges, programme) | Next.js · Remotion · Supabase |
+| **Konferex** | SaaS de gestion de congrès médicaux (inscriptions, badges, programme) | Next.js · Remotion · Supabase |
 | **Zopimed Togo** | Finder géolocalisé de pharmacies & médicaments (200+ pharmacies) | React · TypeScript · Supabase |
 
 ---
